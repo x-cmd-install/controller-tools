@@ -1,0 +1,60 @@
+about:
+  description: Tools to use with the controller-runtime libraries
+  license: Apache-2.0
+  homepage: 
+  head: a49c392
+  archived: false
+  latestVersion: v0.22.0
+  collectedAt: 2026-09-03T04:46:49Z
+timeline:
+  created: 2018-06-15
+  lastCommit: 2026-08-31
+  lastRelease: 2026-09-02
+popularity:
+  star: 871
+  watcher: 13
+  fork: 483
+  release: 100
+  contributor: 531
+  pullRequest: 236
+  issue: 488
+language:
+  Go: 673051
+  Shell: 15876
+  Python: 9556
+  Makefile: 7182
+  Dockerfile: 6590
+totalLine: 712255
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 2
+    mergedPR: 8
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 8
+  last90d:
+    since: 2026-06-05
+    release: 3
+    mergedPR: 31
+    openPR: 5
+    closedIssue: 4
+    openIssue: 5
+    commit: 34
+  last180d:
+    since: 2026-03-07
+    release: 5
+    mergedPR: 66
+    openPR: 13
+    closedIssue: 11
+    openIssue: 10
+    commit: 68
+  last360d:
+    since: 2025-09-08
+    release: 10
+    mergedPR: 124
+    openPR: 14
+    closedIssue: 22
+    openIssue: 12
+    commit: 137
