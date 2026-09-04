@@ -7,7 +7,7 @@ about:
   head: a49c392
   archived: false
   latestVersion: v0.22.0
-  collectedAt: 2026-09-04T19:46:28Z
+  collectedAt: 2026-09-04T20:51:05Z
 timeline:
   created: 2018-06-15
   lastCommit: 2026-08-31
@@ -84,6 +84,54 @@ total:
   openIssue: 28
   commit: 1598
 ---
+path: /home/runner/.x-repo/github.com/kubernetes-sigs/controller-tools
+collectedAt: 2026-09-04T20:51:07Z
+loc:
+  Yaml:
+    code: 24200
+    comments: 1
+    blanks: 117
+    files: 75
+  Go:
+    code: 23071
+    comments: 8680
+    blanks: 3820
+    files: 204
+  Sh:
+    code: 202
+    comments: 161
+    blanks: 69
+    files: 9
+  Python:
+    code: 174
+    comments: 79
+    blanks: 54
+    files: 4
+  Makefile:
+    code: 139
+    comments: 57
+    blanks: 40
+    files: 2
+  Dockerfile:
+    code: 101
+    comments: 63
+    blanks: 27
+    files: 3
+  Markdown:
+    code: 0
+    comments: 152
+    blanks: 71
+    files: 11
+  Text:
+    code: 0
+    comments: 63
+    blanks: 7
+    files: 5
+total:
+  code: 47893
+  comments: 9256
+  blanks: 4205
+  files: 313
 ---
 date: "2026-08-24"
 repo:
