@@ -5,7 +5,7 @@ about:
   head: c702a89
   archived: false
   latestVersion: "v0.22.0"
-  collectedAt: 2026-09-08T01:44:16Z
+  collectedAt: 2026-09-08T04:42:13Z
 timeline:
   created: 2018-06-15
   lastCommit: 2026-09-07
@@ -83,7 +83,7 @@ total:
   commit: 1600
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/controller-tools
-collectedAt: 2026-09-08T01:44:21Z
+collectedAt: 2026-09-08T04:42:18Z
 loc:
   Yaml:
     code: 24200
