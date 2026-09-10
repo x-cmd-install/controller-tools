@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.22.0"
   latestRelease: "v0.22.0"
   latestPrerelease: "v0.16.0-beta.0"
-  collectedAt: 2026-09-10T16:19:18Z
+  collectedAt: 2026-09-10T21:21:01Z
 timeline:
   created: 2018-06-15
   lastCommit: 2026-09-09
@@ -19,7 +19,7 @@ popularity:
   watcher: 13
   fork: 483
   release: 100
-  contributor: 532
+  contributor: 533
   pullRequest: 982
   issue: 489
 language:
@@ -87,7 +87,7 @@ total:
   commit: 1602
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/controller-tools
-collectedAt: 2026-09-10T16:19:23Z
+collectedAt: 2026-09-10T21:21:13Z
 loc:
   Yaml:
     code: 24200
