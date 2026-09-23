@@ -4,7 +4,7 @@
 
 Tools to use with the controller-runtime libraries
 
-[![x-cmd/install — controller-tools Code Quality Monitoring Repo Card](https://repo.x-cmd.io/controller-tools.svg)](https://x-cmd.com/install/controller-tools)
+[![x-cmd/install — controller-tools Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/controller-tools.svg)](https://x-cmd.com/install/controller-tools)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 9 | 1 | 0 | 2 | 4 |
-| last60d | 2026-07-24 | 2 | 15 | 4 | 1 | 3 | 13 |
-| 90d | 2026-06-24 | 3 | 25 | 4 | 2 | 3 | 24 |
-| last180d | 2026-03-26 | 5 | 60 | 12 | 10 | 12 | 65 |
-| 360d | 2025-09-27 | 9 | 119 | 15 | 20 | 14 | 131 |
-| last720d | 2024-10-02 | 24 | 235 | 16 | 66 | 18 | 479 |
+| 30d | 2026-08-24 | 2 | 8 | 1 | 0 | 2 | 4 |
+| last60d | 2026-07-25 | 2 | 15 | 4 | 1 | 3 | 13 |
+| 90d | 2026-06-25 | 3 | 25 | 4 | 1 | 3 | 24 |
+| last180d | 2026-03-27 | 5 | 60 | 12 | 10 | 11 | 65 |
+| 360d | 2025-09-28 | 9 | 119 | 15 | 20 | 14 | 131 |
+| last720d | 2024-10-03 | 24 | 235 | 16 | 66 | 18 | 479 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:07:16Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:50:44Z._
