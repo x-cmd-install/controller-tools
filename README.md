@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 6 | 1 | 0 | 2 | 4 |
-| last60d | 2026-07-27 | 2 | 13 | 4 | 1 | 3 | 13 |
-| 90d | 2026-06-27 | 2 | 23 | 4 | 1 | 3 | 24 |
-| last180d | 2026-03-29 | 5 | 60 | 12 | 10 | 11 | 65 |
-| 360d | 2025-09-30 | 9 | 119 | 15 | 20 | 14 | 131 |
-| last720d | 2024-10-05 | 24 | 235 | 16 | 66 | 18 | 479 |
+| 30d | 2026-08-27 | 2 | 4 | 1 | 0 | 2 | 4 |
+| last60d | 2026-07-28 | 2 | 13 | 4 | 1 | 3 | 13 |
+| 90d | 2026-06-28 | 2 | 23 | 4 | 1 | 3 | 24 |
+| last180d | 2026-03-30 | 5 | 60 | 12 | 10 | 11 | 65 |
+| 360d | 2025-10-01 | 9 | 119 | 15 | 20 | 14 | 131 |
+| last720d | 2024-10-06 | 24 | 235 | 16 | 66 | 18 | 479 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:57:09Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:58:11Z._
