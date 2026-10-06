@@ -14,12 +14,12 @@ x install controller-tools
 
 ## Code insight
 
-Total: **48,180** lines of code across **294** files in the top 5 languages.
+Total: **48,349** lines of code across **297** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 24,329 | 1 | 117 | 75 |
-| Go | 23,232 | 8,741 | 3,863 | 204 |
+| Yaml | 24,399 | 1 | 117 | 76 |
+| Go | 23,331 | 8,784 | 3,881 | 206 |
 | Sh | 202 | 161 | 69 | 9 |
 | Python | 177 | 79 | 54 | 4 |
 | Makefile | 139 | 57 | 40 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.22.0` (2026-09-02)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-05
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 866 · **Forks**: 482 · **Open issues**: 490 · **Contributors**: 544
+- **Stars**: 866 · **Forks**: 484 · **Open issues**: 490 · **Contributors**: 545
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 750 · **Open PRs**: 14 · **Closed issues**: 462 · **Open issues**: 28 · **Commits**: 1611
+- **Releases**: 100 · **Merged PRs**: 751 · **Open PRs**: 15 · **Closed issues**: 463 · **Open issues**: 27 · **Commits**: 1613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 4 | 1 | 0 | 2 | 3 |
-| last60d | 2026-08-06 | 2 | 12 | 1 | 0 | 2 | 13 |
-| 90d | 2026-07-07 | 2 | 21 | 3 | 1 | 3 | 20 |
-| last180d | 2026-04-08 | 5 | 61 | 10 | 10 | 10 | 66 |
-| 360d | 2025-10-10 | 9 | 122 | 12 | 21 | 13 | 132 |
-| last720d | 2024-10-15 | 23 | 236 | 13 | 66 | 17 | 480 |
+| 30d | 2026-09-06 | 0 | 4 | 2 | 0 | 1 | 3 |
+| last60d | 2026-08-07 | 2 | 13 | 2 | 1 | 1 | 14 |
+| 90d | 2026-07-08 | 2 | 22 | 4 | 2 | 2 | 21 |
+| last180d | 2026-04-09 | 5 | 62 | 10 | 11 | 9 | 67 |
+| 360d | 2025-10-11 | 9 | 123 | 13 | 22 | 12 | 133 |
+| last720d | 2024-10-16 | 23 | 237 | 14 | 67 | 16 | 482 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:34:15Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:17:58Z._
