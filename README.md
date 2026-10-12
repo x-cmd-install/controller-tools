@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 751 · **Open PRs**: 16 · **Closed issues**: 463 · **Open issues**: 30 · **Commits**: 1613
+- **Releases**: 100 · **Merged PRs**: 751 · **Open PRs**: 17 · **Closed issues**: 463 · **Open issues**: 30 · **Commits**: 1613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 2 | 3 | 0 | 4 | 3 |
-| last60d | 2026-08-12 | 2 | 13 | 3 | 1 | 4 | 12 |
-| 90d | 2026-07-13 | 2 | 20 | 5 | 2 | 5 | 20 |
-| last180d | 2026-04-14 | 5 | 61 | 11 | 11 | 12 | 66 |
-| 360d | 2025-10-16 | 9 | 121 | 14 | 22 | 15 | 133 |
-| last720d | 2024-10-21 | 23 | 235 | 15 | 65 | 19 | 482 |
+| 30d | 2026-09-12 | 0 | 2 | 4 | 0 | 4 | 3 |
+| last60d | 2026-08-13 | 2 | 13 | 4 | 1 | 4 | 12 |
+| 90d | 2026-07-14 | 2 | 20 | 6 | 2 | 5 | 20 |
+| last180d | 2026-04-15 | 5 | 61 | 12 | 11 | 12 | 66 |
+| 360d | 2025-10-17 | 9 | 121 | 15 | 21 | 15 | 133 |
+| last720d | 2024-10-22 | 23 | 235 | 16 | 65 | 19 | 479 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:42:51Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:00:01Z._
