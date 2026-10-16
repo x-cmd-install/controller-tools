@@ -41,41 +41,41 @@ x install controller-tools
 
 ## 发布
 
-- **最新版本**: `v0.22.0` (2026-09-02)
+- **最新版本**: `v0.23.0` (2026-10-15)
 - **最近提交**: 2026-10-14
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 866 · **Fork**: 485 · **开放 issue**: 494 · **贡献者**: 551
+- **Star**: 866 · **Fork**: 486 · **开放 issue**: 494 · **贡献者**: 551
 
 ## 累计统计
 
-- **发布数**: 100 · **已合并 PR**: 753 · **开放 PR**: 16 · **已关闭 issue**: 463 · **开放 issue**: 31 · **提交数**: 1617
+- **发布数**: 101 · **已合并 PR**: 753 · **开放 PR**: 17 · **已关闭 issue**: 463 · **开放 issue**: 31 · **提交数**: 1617
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 4 | 3 | 0 | 5 | 5 |
-| last60d | 2026-08-16 | 2 | 15 | 3 | 1 | 5 | 14 |
-| 90d | 2026-07-17 | 2 | 22 | 5 | 2 | 6 | 22 |
-| last180d | 2026-04-18 | 5 | 63 | 10 | 11 | 13 | 68 |
-| 360d | 2025-10-20 | 9 | 123 | 14 | 21 | 16 | 135 |
-| last720d | 2024-10-25 | 23 | 236 | 15 | 65 | 20 | 483 |
+| 30d | 2026-09-16 | 1 | 4 | 4 | 0 | 5 | 5 |
+| last60d | 2026-08-17 | 3 | 13 | 4 | 1 | 5 | 14 |
+| 90d | 2026-07-18 | 3 | 22 | 6 | 2 | 6 | 22 |
+| last180d | 2026-04-19 | 6 | 63 | 11 | 11 | 11 | 68 |
+| 360d | 2025-10-21 | 10 | 123 | 15 | 21 | 16 | 135 |
+| last720d | 2024-10-26 | 24 | 236 | 16 | 65 | 20 | 479 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [controller-gen-darwin-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-darwin-amd64) | 34.3 MiB | `native/darwin/x64` |
-| [controller-gen-darwin-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-darwin-arm64) | 32.3 MiB | `native/darwin/arm64` |
-| [controller-gen-linux-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-amd64) | 33.3 MiB | `native/linux/x64` |
-| [controller-gen-linux-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-arm64) | 31.1 MiB | `native/linux/arm64` |
-| [controller-gen-linux-ppc64le](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-ppc64le) | 32.6 MiB | `other` |
-| [controller-gen-linux-s390x](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-s390x) | 34.1 MiB | `other` |
-| [controller-gen-windows-amd64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-windows-amd64.exe) | 33.9 MiB | `native/win/x64` |
-| [controller-gen-windows-arm64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-windows-arm64.exe) | 31.3 MiB | `native/win/arm64` |
+| [controller-gen-darwin-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-darwin-amd64) | 34.3 MiB | `native/darwin/x64` |
+| [controller-gen-darwin-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-darwin-arm64) | 32.3 MiB | `native/darwin/arm64` |
+| [controller-gen-linux-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-amd64) | 33.3 MiB | `native/linux/x64` |
+| [controller-gen-linux-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-arm64) | 31.1 MiB | `native/linux/arm64` |
+| [controller-gen-linux-ppc64le](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-ppc64le) | 32.6 MiB | `other` |
+| [controller-gen-linux-s390x](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-s390x) | 34.1 MiB | `other` |
+| [controller-gen-windows-amd64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-windows-amd64.exe) | 34.0 MiB | `native/win/x64` |
+| [controller-gen-windows-arm64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-windows-arm64.exe) | 31.4 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ controller-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T04:40:16Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T04:35:00Z._

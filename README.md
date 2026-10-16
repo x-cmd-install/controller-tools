@@ -41,41 +41,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.22.0` (2026-09-02)
+- **Latest**: `v0.23.0` (2026-10-15)
 - **Last commit**: 2026-10-14
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 866 · **Forks**: 485 · **Open issues**: 494 · **Contributors**: 551
+- **Stars**: 866 · **Forks**: 486 · **Open issues**: 494 · **Contributors**: 551
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 753 · **Open PRs**: 16 · **Closed issues**: 463 · **Open issues**: 31 · **Commits**: 1617
+- **Releases**: 101 · **Merged PRs**: 753 · **Open PRs**: 17 · **Closed issues**: 463 · **Open issues**: 31 · **Commits**: 1617
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 4 | 3 | 0 | 5 | 5 |
-| last60d | 2026-08-16 | 2 | 15 | 3 | 1 | 5 | 14 |
-| 90d | 2026-07-17 | 2 | 22 | 5 | 2 | 6 | 22 |
-| last180d | 2026-04-18 | 5 | 63 | 10 | 11 | 13 | 68 |
-| 360d | 2025-10-20 | 9 | 123 | 14 | 21 | 16 | 135 |
-| last720d | 2024-10-25 | 23 | 236 | 15 | 65 | 20 | 483 |
+| 30d | 2026-09-16 | 1 | 4 | 4 | 0 | 5 | 5 |
+| last60d | 2026-08-17 | 3 | 13 | 4 | 1 | 5 | 14 |
+| 90d | 2026-07-18 | 3 | 22 | 6 | 2 | 6 | 22 |
+| last180d | 2026-04-19 | 6 | 63 | 11 | 11 | 11 | 68 |
+| 360d | 2025-10-21 | 10 | 123 | 15 | 21 | 16 | 135 |
+| last720d | 2024-10-26 | 24 | 236 | 16 | 65 | 20 | 479 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [controller-gen-darwin-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-darwin-amd64) | 34.3 MiB | `native/darwin/x64` |
-| [controller-gen-darwin-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-darwin-arm64) | 32.3 MiB | `native/darwin/arm64` |
-| [controller-gen-linux-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-amd64) | 33.3 MiB | `native/linux/x64` |
-| [controller-gen-linux-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-arm64) | 31.1 MiB | `native/linux/arm64` |
-| [controller-gen-linux-ppc64le](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-ppc64le) | 32.6 MiB | `other` |
-| [controller-gen-linux-s390x](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-linux-s390x) | 34.1 MiB | `other` |
-| [controller-gen-windows-amd64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-windows-amd64.exe) | 33.9 MiB | `native/win/x64` |
-| [controller-gen-windows-arm64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.22.0/controller-gen-windows-arm64.exe) | 31.3 MiB | `native/win/arm64` |
+| [controller-gen-darwin-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-darwin-amd64) | 34.3 MiB | `native/darwin/x64` |
+| [controller-gen-darwin-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-darwin-arm64) | 32.3 MiB | `native/darwin/arm64` |
+| [controller-gen-linux-amd64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-amd64) | 33.3 MiB | `native/linux/x64` |
+| [controller-gen-linux-arm64](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-arm64) | 31.1 MiB | `native/linux/arm64` |
+| [controller-gen-linux-ppc64le](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-ppc64le) | 32.6 MiB | `other` |
+| [controller-gen-linux-s390x](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-s390x) | 34.1 MiB | `other` |
+| [controller-gen-windows-amd64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-windows-amd64.exe) | 34.0 MiB | `native/win/x64` |
+| [controller-gen-windows-arm64.exe](https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-windows-arm64.exe) | 31.4 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:40:16Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:34:59Z._
