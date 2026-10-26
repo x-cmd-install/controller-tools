@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 35981472,
       "digest": "sha256:f7e377ab51caa7eb6afba9095f268d22f7c9ffc9eb438969839c7186ec2a17e1",
-      "download_count": 15,
+      "download_count": 22,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:13Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33886658,
       "digest": "sha256:4ac93bd254c07adabf6f6f88524da690f07b6004305a00ff37571ea6224ee944",
-      "download_count": 73,
+      "download_count": 80,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:13Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 34951744,
       "digest": "sha256:849fc06f331c18ea4dcffd3f9c7e0d8d4a51013b57bbe60bc726fc125f9784a3",
-      "download_count": 2610,
+      "download_count": 2726,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:13Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 32609016,
       "digest": "sha256:9610184a2bc4b7f6f680e0d558f7976848f745ba3eeb3feb2340fbe15e96ce02",
-      "download_count": 30,
+      "download_count": 36,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 34185500,
       "digest": "sha256:921e76fbc177c3ec1d9304a4d715dd5f0eb46fea1b0dea1223c9d39e1776dd3a",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-ppc64le"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 35736868,
       "digest": "sha256:dc369b2aad2dd8077d6aad17ab2d9cb601be88705330dbf619c2b10b8d26e6b5",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:13Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-linux-s390x"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 35620352,
       "digest": "sha256:160dbfb0620c8fe065c4dadbc8397e098e564d046d63f43a2b0836fe22fc5b02",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:15Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-windows-amd64.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 32901120,
       "digest": "sha256:4b336ae8538d9e310fe7f06bb0c2245cb643a3599569454d397a0e1b6fc8c3a4",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-10-15T16:50:10Z",
       "updated_at": "2026-10-15T16:50:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/controller-tools/releases/download/v0.23.0/controller-gen-windows-arm64.exe"
