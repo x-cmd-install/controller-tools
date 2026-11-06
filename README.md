@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 866 · **Forks**: 487 · **Open issues**: 500 · **Contributors**: 559
+- **Stars**: 866 · **Forks**: 488 · **Open issues**: 500 · **Contributors**: 559
 
 ## Totals (cumulative)
 
-- **Releases**: 101 · **Merged PRs**: 758 · **Open PRs**: 18 · **Closed issues**: 464 · **Open issues**: 36 · **Commits**: 1627
+- **Releases**: 101 · **Merged PRs**: 758 · **Open PRs**: 20 · **Closed issues**: 464 · **Open issues**: 36 · **Commits**: 1627
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 7 | 4 | 1 | 8 | 7 |
-| last60d | 2026-09-06 | 1 | 11 | 6 | 1 | 10 | 11 |
-| 90d | 2026-08-07 | 3 | 20 | 6 | 2 | 10 | 21 |
-| last180d | 2026-05-09 | 4 | 51 | 8 | 12 | 14 | 53 |
-| 360d | 2025-11-10 | 9 | 120 | 16 | 21 | 19 | 131 |
-| last720d | 2024-11-15 | 23 | 233 | 17 | 64 | 23 | 473 |
+| 30d | 2026-10-07 | 1 | 7 | 6 | 1 | 8 | 7 |
+| last60d | 2026-09-07 | 1 | 10 | 8 | 1 | 10 | 11 |
+| 90d | 2026-08-08 | 3 | 20 | 8 | 2 | 10 | 21 |
+| last180d | 2026-05-10 | 4 | 51 | 10 | 12 | 14 | 53 |
+| 360d | 2025-11-11 | 9 | 120 | 18 | 21 | 19 | 131 |
+| last720d | 2024-11-16 | 23 | 233 | 19 | 64 | 23 | 473 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:41:28Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:33:56Z._
