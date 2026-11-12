@@ -14,12 +14,12 @@ x install controller-tools
 
 ## Code insight
 
-Total: **48,434** lines of code across **298** files in the top 5 languages.
+Total: **48,443** lines of code across **298** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 24,420 | 1 | 117 | 76 |
-| Go | 23,396 | 8,832 | 3,893 | 207 |
+| Go | 23,405 | 8,832 | 3,893 | 207 |
 | Sh | 202 | 161 | 69 | 9 |
 | Python | 177 | 79 | 54 | 4 |
 | Makefile | 138 | 57 | 40 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.0` (2026-10-15)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-11
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 867 · **Forks**: 487 · **Open issues**: 500 · **Contributors**: 559
+- **Stars**: 867 · **Forks**: 487 · **Open issues**: 501 · **Contributors**: 560
 
 ## Totals (cumulative)
 
-- **Releases**: 101 · **Merged PRs**: 760 · **Open PRs**: 20 · **Closed issues**: 464 · **Open issues**: 36 · **Commits**: 1631
+- **Releases**: 101 · **Merged PRs**: 761 · **Open PRs**: 18 · **Closed issues**: 464 · **Open issues**: 37 · **Commits**: 1633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 8 | 5 | 1 | 6 | 7 |
-| last60d | 2026-09-12 | 1 | 11 | 8 | 1 | 10 | 12 |
-| 90d | 2026-08-13 | 3 | 22 | 8 | 2 | 10 | 23 |
-| last180d | 2026-05-15 | 4 | 51 | 10 | 10 | 14 | 53 |
-| 360d | 2025-11-16 | 9 | 122 | 18 | 21 | 19 | 133 |
-| last720d | 2024-11-21 | 23 | 234 | 19 | 64 | 23 | 473 |
+| 30d | 2026-10-13 | 1 | 9 | 4 | 1 | 7 | 8 |
+| last60d | 2026-09-13 | 1 | 12 | 6 | 1 | 11 | 13 |
+| 90d | 2026-08-14 | 3 | 23 | 6 | 2 | 11 | 24 |
+| last180d | 2026-05-16 | 4 | 52 | 8 | 10 | 15 | 54 |
+| 360d | 2025-11-17 | 9 | 123 | 16 | 21 | 20 | 134 |
+| last720d | 2024-11-22 | 23 | 235 | 17 | 64 | 24 | 475 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:13:46Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:14:33Z._
