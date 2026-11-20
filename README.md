@@ -14,12 +14,12 @@ x install controller-tools
 
 ## Code insight
 
-Total: **48,556** lines of code across **299** files in the top 5 languages.
+Total: **49,174** lines of code across **299** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 24,420 | 1 | 117 | 76 |
-| Go | 23,520 | 8,873 | 3,907 | 208 |
+| Yaml | 25,044 | 1 | 125 | 76 |
+| Go | 23,514 | 8,883 | 3,909 | 208 |
 | Sh | 202 | 161 | 69 | 9 |
 | Python | 177 | 79 | 54 | 4 |
 | Makefile | 136 | 57 | 40 | 2 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.0` (2026-10-15)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 101 · **Merged PRs**: 766 · **Open PRs**: 23 · **Closed issues**: 465 · **Open issues**: 43 · **Commits**: 1643
+- **Releases**: 101 · **Merged PRs**: 768 · **Open PRs**: 22 · **Closed issues**: 465 · **Open issues**: 43 · **Commits**: 1646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 12 | 8 | 1 | 12 | 12 |
-| last60d | 2026-09-20 | 1 | 17 | 11 | 1 | 17 | 17 |
-| 90d | 2026-08-21 | 3 | 26 | 11 | 2 | 17 | 27 |
-| last180d | 2026-05-23 | 4 | 56 | 13 | 10 | 21 | 57 |
-| 360d | 2025-11-24 | 9 | 126 | 21 | 21 | 26 | 137 |
-| last720d | 2024-11-29 | 23 | 240 | 22 | 64 | 30 | 485 |
+| 30d | 2026-10-21 | 0 | 14 | 7 | 0 | 11 | 14 |
+| last60d | 2026-09-21 | 1 | 18 | 10 | 1 | 17 | 19 |
+| 90d | 2026-08-22 | 3 | 28 | 10 | 2 | 17 | 29 |
+| last180d | 2026-05-24 | 4 | 58 | 12 | 10 | 21 | 59 |
+| 360d | 2025-11-25 | 9 | 128 | 20 | 21 | 26 | 139 |
+| last720d | 2024-11-30 | 23 | 242 | 21 | 64 | 30 | 488 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for controller-tools lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:29:16Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:30:10Z._
